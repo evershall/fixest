@@ -34,7 +34,7 @@
 	</dependencyManagement>
 
 	<modules>
-		<module>../../../workspaces/fixest/api</module>
+		<module>../../../git/fixest/api</module>
 	</modules>
 	
 	
