@@ -7,8 +7,7 @@
 	<version>1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>parent</name>
-	<url>http://maven.apache.org</url>
+
 
 	<dependencyManagement>
 		<dependencies>
@@ -34,4 +33,9 @@
 		</dependencies>
 	</dependencyManagement>
 
+	<modules>
+		<module>../../../workspaces/fixest/api</module>
+	</modules>
+	
+	
 </project>
